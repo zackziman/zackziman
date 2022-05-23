@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zackziman
-- 👀 I’m interested in health data analysis with the use of Excel, SQL, Tableau, and R
-- 🌱 I’m currently a Senior at the University of Maryland studying Public Health Science
+-  Hi, I’m @zackziman
+-  I’m interested in health data analysis with the use of Excel, SQL, Tableau, and R
+-  I’m currently a Senior at the University of Maryland studying Public Health Science
 - 📫 How to reach me: zackziman1@gmail.com
 
 <!---
